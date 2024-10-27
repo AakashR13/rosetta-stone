@@ -9,7 +9,7 @@ To get started with studying assembly languages using Rosetta Stone, follow thes
 1. **Clone the repository**: Open a terminal and run the following command to clone the repository to your local machine:
 
 ```
-git clone https://github.com/lowlevellearning/rosetta-stone.git
+git clone https://github.com/AakashR13/rosetta-stone.git
 ```
 2. **Install necessary packages**: Install the necessary packages on your system by running the following command:
 ```
